@@ -1,8 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p133911-e1313554.adobeaemcloud.com/bin/franklin.delivery/adobe-rnd/aem-boilerplate-forms-xwalk/main
+    url: https://5dec-103-43-112-97.ngrok-free.app/
     type: "markup"
     suffix: ".md.html"
-  /:
-  url:  https://e8dd-103-43-112-97.ngrok-free.app
-  type: "markup"
