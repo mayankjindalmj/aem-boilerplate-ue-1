@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://5dec-103-43-112-97.ngrok-free.app/
+    url: https://fzkm0a4vlczp.share.zrok.io
     type: "markup"
     suffix: ".md.html"
